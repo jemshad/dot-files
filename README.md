@@ -1,2 +1,4 @@
 # dot-files
-Various dot files I commonly use
+Various dot files and settings I commonly use
+
+See [wiki](https://github.com/jemshad/dot-files/wiki) for more details
