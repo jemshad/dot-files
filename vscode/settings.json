@@ -1,0 +1,54 @@
+{
+    // render end-of-line characters
+    "editor.renderWhitespace": "trailing",
+    "code-eol.newlineCharacter": "↓",
+    "code-eol.returnCharacter": "←",
+    "code-eol.crlfCharacter": "↵",
+
+    "editor.minimap.autohide": true,
+    "git.autofetch": true,
+    "editor.fontSize": 18,
+    "files.autoSave": "afterDelay",
+    "files.trimTrailingWhitespace": true,
+    "debug.javascript.resourceRequestOptions": {},
+    "[python]": {
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            {
+                "column": 80,
+                "color": "#092122"
+            },
+        ]
+    },
+    "[go]": {
+        "editor.rulers": [
+            {
+                "column": 120,
+                "color": "#792020"
+            }
+        ]
+    },
+    "workbench.editor.tabCloseButton": "left",
+    "git.confirmSync": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "remote.SSH.configFile": "C:\\Users\\jo481y\\AppData\\Local\\Programs\\Git\\usr\\bin\\ssh-agent.exe C:\\Users\\jo481y\\AppData\\Local\\Programs\\Git\\bin\\bash.exe",
+    "terminal.external.windowsExec": "C:\\Users\\jo481y\\AppData\\Local\\Programs\\Git\\git-bash.exe --login",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "files.eol": "\n",
+    "redhat.telemetry.enabled": false,
+    "go.toolsManagement.autoUpdate": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.editor.tabActionLocation": "left",
+    "go.testFlags": [
+        "-v"
+    ],
+    "editor.detectIndentation": false,
+    "[yaml]": {
+        "editor.tabSize": 4
+    },
+    "editor.minimap.enabled": false,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "explorer.confirmDelete": false
+}
