@@ -1,0 +1,9 @@
+export JAZZCLICFG=jazzcli.dev.yaml
+
+export KUBECTL=~/bin/kubectl
+# Associate your user with an existing cluster
+#export CLUSTER=gke-sdeprod-c1-dsm1
+export CONTEXT=gke-sdeprod-c1-dsm1
+
+alias kubectlss="$KUBECTL --context $CONTEXT -n jazz-provider-sitesearch"
+alias kubectlss-sdk="$KUBECTL --context $CONTEXT -n jazz-provider-sitesearch-sdk"

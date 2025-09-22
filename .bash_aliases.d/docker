@@ -1,0 +1,1 @@
+alias dockerlogs='docker logs --details -f'
